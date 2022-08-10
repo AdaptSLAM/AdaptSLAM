@@ -1,4 +1,3 @@
-The codes for building the AdaptSLAM can be downloaded **here**.
 
 #### Prerequisites.
 Setup the [ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3/blob/master/README.md) prerequisites.
