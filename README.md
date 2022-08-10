@@ -1,3 +1,10 @@
+## Outline
+* [I. Simulated Network and Compuation Conditions](#1)
+* [II. Real-world Network and Compuation Conditions](#2)
+
+## I. <span id="1"> Simulated Network and Compuation Conditions </span> 
+
+## 1. <span id="1"> Data Collection </span> 
 The AdaptSLAM implementation is based on [ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) and [Edge-SLAM](https://github.com/droneslab/edgeslam).
 
 #### Prerequisites.
@@ -30,3 +37,5 @@ b. Execute the following script:
 ./Examples/Monocular/mono_euroc ./Vocabulary/ORBvoc.txt ./Examples/Monocular/EuRoC.yaml V102FileDirectory ./Examples/Monocular/EuRoC_TimeStamps/V102.txt dataset-V102_mono
 ```
 Change ```V102FileDirectory``` to the directory where the dataset has been uncompressed. 
+
+## II. <span id="2"> Real-world Network and Compuation Conditions </span> 
