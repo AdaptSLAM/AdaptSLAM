@@ -4,7 +4,7 @@ The AdaptSLAM implementation is based on [ORB-SLAM3](https://github.com/UZ-SLAML
 * [I. Simulated Network and Compuation Conditions](#1)
 * [II. Real-world Network and Compuation Conditions](#2)
 
-## I. <span id="1"> Simulated Network and Compuation Conditions </span> 
+## I. <span id="1"> Simulated Network and Computation Conditions </span> 
 
 #### Prerequisites.
 Setup the [ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3/blob/master/README.md) prerequisites.
@@ -37,5 +37,5 @@ b. Execute the following script:
 ```
 Change ```V102FileDirectory``` to the directory where the dataset has been uncompressed. 
 
-## II. <span id="2"> Real-world Network and Compuation Conditions </span> 
+## II. <span id="2"> Real-world Network and Computation Conditions </span> 
 The full simulation and implementation codebase will be publicly available upon the publication of the manuscript.
